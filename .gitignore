@@ -14,3 +14,5 @@ Thumbs.db
 
 # VSCode
 .vscode/*
+*/.env
+mec-3.4.1-api-mini-project/.env
